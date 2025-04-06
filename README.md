@@ -1,4 +1,6 @@
-# untitled2
+# minesweeper
+
+Игра Сапер сделана при помощи Vue|Vuex|Js
 
 ## Project setup
 ```
